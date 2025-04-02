@@ -1,6 +1,6 @@
 use_frameworks!
 inhibit_all_warnings!
-platform :ios, '12.0'
+platform :ios, '14.0'
 
 # Please use 'pod install --repo-update' to ensure you have the latest versions of our SDKs.
 
@@ -100,15 +100,15 @@ target 'AppLovin MAX Demo App - Swift' do
 
   pod 'Logging', '1.4.0'
 
-  pod 'MBFreetime', '1.2.2'
+  # pod 'MBFreetime', '1.2.2'
 
   pod 'MaioSDK-v2', '2.1.5'
 
-  pod 'MangaBangAPIClient', '2'
+  # pod 'MangaBangAPIClient', '2'
 
-  pod 'MangaBangAPIClientV1', '2'
+  # pod 'MangaBangAPIClientV1', '2'
 
-  pod 'MangaBangAPIClientV2Store', '2'
+  # pod 'MangaBangAPIClientV2Store', '2'
 
   pod 'MintegralAdSDK', '7.7.6'
 
@@ -142,7 +142,7 @@ target 'AppLovin MAX Demo App - Swift' do
 
   pod 'RxDataSources', '5.0.0'
 
-  pod 'RxRealm', '5.0.6'
+  pod 'RxRealm', '5.0.4'
 
   pod 'RxRelay', '6.7.1'
 
@@ -160,7 +160,7 @@ target 'AppLovin MAX Demo App - Swift' do
 
   pod 'SwiftLint', '0.55.1'
 
-  pod 'Swifter', '2.5.0'
+  # pod 'Swifter', '2.5.0'
 
   pod 'SwiftyUserDefaults', '4.0.0'
 
@@ -179,4 +179,5 @@ target 'AppLovin MAX Demo App - Swift' do
   pod 'zipzap', '8.1.1'
   pod 'Adjust'
   pod 'AdStir-Ads-SDK/AppLovinMaxMediationAdapter', '2.17.3'
+
 end
