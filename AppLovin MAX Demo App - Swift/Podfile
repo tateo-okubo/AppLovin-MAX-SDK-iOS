@@ -10,7 +10,7 @@ target 'AppLovin MAX Demo App - Swift' do
 
   pod 'AMoAdMaxAdapter', '1.1.1'
 
-  pod 'AccessStoreViewer', '0.3.3'
+  # pod 'AccessStoreViewer', '0.3.3'
 
   pod 'Ads-Global', '6.4.1.2'
 
