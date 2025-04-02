@@ -5,6 +5,7 @@ platform :ios, '11.0'
 # Please use 'pod install --repo-update' to ensure you have the latest versions of our SDKs.
 
 target 'AppLovin MAX Demo App - ObjC' do
-  pod 'AppLovinSDK'
+  pod 'AppLovinSDK', '13.0.0'
   pod 'Adjust'
+  pod 'AdStir-Ads-SDK/AppLovinMaxMediationAdapter', '2.17.3'
 end
