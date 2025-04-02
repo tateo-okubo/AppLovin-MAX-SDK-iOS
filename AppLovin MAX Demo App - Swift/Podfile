@@ -5,7 +5,179 @@ platform :ios, '12.0'
 # Please use 'pod install --repo-update' to ensure you have the latest versions of our SDKs.
 
 target 'AppLovin MAX Demo App - Swift' do
-  pod 'AppLovinSDK'
+  pod 'AMViewer', '1.7.3'
+
+  pod 'AMoAd', '6.2.2'
+
+  pod 'AMoAdMaxAdapter', '1.1.1'
+
+  pod 'AccessStoreViewer', '0.3.3'
+
+  pod 'Ads-Global', '6.4.1.2'
+
+  pod 'Alamofire', '5.9.1'
+
+  pod 'AnyCodable-FlightSchool', '0.6.7'
+
+  pod 'AppLovinMediationByteDanceAdapter', '6.4.1.2.0'
+
+  pod 'AppLovinMediationFacebookAdapter', '6.15.2.1'
+
+  pod 'AppLovinMediationGoogleAdapter', '11.10.0.0'
+
+  pod 'AppLovinMediationInMobiAdapter', '10.7.8.0'
+
+  pod 'AppLovinMediationLineAdapter', '2.9.20241106.0'
+
+  pod 'AppLovinMediationMaioAdapter', '2.1.5.0'
+
+  pod 'AppLovinMediationMintegralAdapter', '7.7.6.0.0'
+
+  pod 'AppLovinMediationMolocoAdapter', '3.2.0.0'
+
+  pod 'AppLovinMediationUnityAdsAdapter', '4.12.3.0'
+
+  pod 'AppLovinMediationVungleAdapter', '7.4.2.0'
+
+  pod 'AppLovinSDK', '13.0.0'
+
+  pod 'AppsFlyerFramework', '6.14.5'
+
+  pod 'CryptoSwift', '1.8.2'
+
+  pod 'Cuckoo', '1.10.4'
+
+  pod 'DeviceKit', '5.5.0'
+
+  pod 'Differentiator', '5.0.0'
+
+  pod 'FBAudienceNetwork', '6.15.2'
+
+  pod 'Firebase', '11.1.0'
+
+  pod 'FirebaseABTesting', '11.1.0'
+
+  pod 'FirebaseAnalytics', '11.1.0'
+
+  pod 'FirebaseCore', '11.1.0'
+
+  pod 'FirebaseCoreExtension', '11.1.0'
+
+  pod 'FirebaseCoreInternal', '11.1.0'
+
+  pod 'FirebaseCrashlytics', '11.1.0'
+
+  pod 'FirebaseInAppMessaging', '11.1.0-beta'
+
+  pod 'FirebaseInstallations', '11.1.0'
+
+  pod 'FirebaseMessaging', '11.1.0'
+
+  pod 'FirebaseRemoteConfig', '11.1.0'
+
+  pod 'FirebaseRemoteConfigInterop', '11.1.0'
+
+  pod 'FirebaseSessions', '11.1.0'
+
+  pod 'FirebaseSharedSwift', '11.1.0'
+
+  pod 'FiveAd', '2.9.20241106'
+
+  pod 'Google-Mobile-Ads-SDK', '11.10.0'
+
+  pod 'GoogleAppMeasurement', '11.1.0'
+
+  pod 'GoogleDataTransport', '10.1.0'
+
+  pod 'GoogleMobileAdsMediationPangle', '6.4.1.2.0'
+
+  pod 'GoogleUserMessagingPlatform', '2.6.0'
+
+  pod 'GoogleUtilities', '8.0.2'
+
+  pod 'InMobiSDK', '10.7.8'
+
+  pod 'KeychainAccess', '4.2.2'
+
+  pod 'Logging', '1.4.0'
+
+  pod 'MBFreetime', '1.2.2'
+
+  pod 'MaioSDK-v2', '2.1.5'
+
+  pod 'MangaBangAPIClient', '2'
+
+  pod 'MangaBangAPIClientV1', '2'
+
+  pod 'MangaBangAPIClientV2Store', '2'
+
+  pod 'MintegralAdSDK', '7.7.6'
+
+  pod 'MolocoSDKiOS', '3.2.0'
+
+  pod 'Moya', '15.0.0'
+
+  pod 'Nimble', '12.3.0'
+
+  pod 'Nuke', '9.5.0'
+
+  pod 'Nuke-WebP-Plugin', '6.0.1'
+
+  pod 'Pageboy', '4.2.0'
+
+  pod 'Periphery', '2.21.0'
+
+  pod 'PromisesObjC', '2.4.0'
+
+  pod 'PromisesSwift', '2.4.0'
+
+  pod 'Quick', '7.6.1'
+
+  pod 'Realm', '10.52.2'
+
+  pod 'RealmSwift', '10.52.2'
+
+  pod 'RxBlocking', '6.7.1'
+
+  pod 'RxCocoa', '6.7.1'
+
+  pod 'RxDataSources', '5.0.0'
+
+  pod 'RxRealm', '5.0.6'
+
+  pod 'RxRelay', '6.7.1'
+
+  pod 'RxSwift', '6.7.1'
+
+  pod 'RxTest', '6.7.1'
+
+  pod 'SDCAlertView', '12.0.4'
+
+  pod 'SnapKit', '5.7.1'
+
+  pod 'SwiftDate', '7.0.0'
+
+  pod 'SwiftFormat', '0.54.2'
+
+  pod 'SwiftLint', '0.55.1'
+
+  pod 'Swifter', '2.5.0'
+
+  pod 'SwiftyUserDefaults', '4.0.0'
+
+  pod 'Tabman', '3.2.0'
+
+  pod 'TapjoySDK', '13.1.2'
+
+  pod 'UnityAds', '4.12.3'
+
+  pod 'VungleAds', '7.4.2'
+
+  pod 'libwebp', '1.1.0'
+
+  pod 'nanopb', '3.30910.0'
+
+  pod 'zipzap', '8.1.1'
   pod 'Adjust'
   pod 'AdStir-Ads-SDK/AppLovinMaxMediationAdapter', '2.17.3'
 end
